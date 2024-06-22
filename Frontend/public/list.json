@@ -1,0 +1,87 @@
+[
+    {
+     "id":1,
+     "name":"Entertainment",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+     "id":2,
+     "name":"Entertainment",
+     "price":"100",
+     "Category":"Paid",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain"},
+    {
+     "id":3,
+     "name":"comedy",
+     "price":"200",
+     "Category":"Paid",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" },
+    {
+     "id":4,
+     "name":"Entertainment",
+     "price":"400",
+     "Category":"Paid",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" },
+    {
+     "id":5,
+     "name":"Entertainment",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain"},
+    {
+     "id":6,
+     "name":"fight",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" },
+    {
+     "id":7,
+     "name":"Entertainment",
+     "price":"600",
+     "Category":"Paid",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain"},
+    {
+     "id":8,
+     "name":"Horror",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain"},
+    {
+     "id":9,
+     "name":"Entertainment",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" },
+    {
+     "id":10,
+     "name":"Entertainment",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" },
+    {
+     "id":11,
+     "name":"Fight",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" },
+    {
+     "id":12,
+     "name":"Horror",
+     "price":"00",
+     "Category":"Free",
+     "title":"for chils",
+     "image":"https://th.bing.com/th/id/OIP.QZREKB0lNgfZ9cR9QIHr-gHaE8?rs=1&pid=ImgDetMain" }
+]
